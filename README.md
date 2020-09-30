@@ -12,7 +12,7 @@ Spawn coordinates on map: -27 102 -319
 
 Video:
 
-[![Watch the video](https://img.youtube.com/vi/PRqMH9O7OM0/maxresdefault.jpg)](https://youtu.be/PRqMH9O7OM0)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PRqMH9O7OM0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Screenshots:
 
