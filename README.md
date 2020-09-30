@@ -2,7 +2,7 @@
 This is a work specially for PFK in September of the Keep project.
 
 The work contains:
-- Minecraft video about the project. Link: coming soon
+- Minecraft video about the project. Link: https://youtu.be/PRqMH9O7OM0
 - Server map for version 1.16.2. Path: /map/
 - Video. Path: /video/
 - Several skins and their 3D versions. Path: /img/
@@ -20,13 +20,12 @@ Screenshots:
 
 <img src="img/screens/castle_night.png?raw=true" width="1000"/><br><br>
 <img src="img/screens/throne.png?raw=true" width="1000"/><br><br>
+<img src="img/3d/3d_1.jpeg?raw=true" width="1000"/><br><br>
 
 Status:
 - [X] Map
 - [X] Video
 - [X] Skins
-
-3D version of images created only for demonstration by https://novaskin.me/.
 
 All minecraft skins created specialy for Keep by JanIvanov. Upload skins in your minecraft account for fun.
 
