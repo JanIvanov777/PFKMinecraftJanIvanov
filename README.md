@@ -18,8 +18,8 @@ Video (click to img!):
 
 Screenshots:
 
-<img src="img/screens/castle_night.png?raw=true" width="600"/><br><br>
-<img src="img/screens/throne.png?raw=true" width="600"/><br><br>
+<img src="img/screens/castle_night.png?raw=true" width="1000"/><br><br>
+<img src="img/screens/throne.png?raw=true" width="1000"/><br><br>
 
 Status:
 - [X] Map
