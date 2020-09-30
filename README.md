@@ -12,6 +12,15 @@ The work contains:
 
 Spawn coordinates on map: -27 102 -319
 
+Status:
+- [X] Map
+- [X] Video
+- [X] Skins
+
+All minecraft skins created specialy for Keep by JanIvanov. Upload skins in your minecraft account for fun.
+
+Discord ID: JanIvanov#5596
+
 Video (click to img!):
 
 [![Watch the video](http://i3.ytimg.com/vi/PRqMH9O7OM0/hqdefault.jpg)](https://youtu.be/PRqMH9O7OM0)
@@ -21,12 +30,3 @@ Screenshots:
 <img src="img/screens/castle_night.png?raw=true" width="1000"/><br><br>
 <img src="img/screens/throne.png?raw=true" width="1000"/><br><br>
 <img src="img/3d/3d_1.jpeg?raw=true" width="1000"/><br><br>
-
-Status:
-- [X] Map
-- [X] Video
-- [X] Skins
-
-All minecraft skins created specialy for Keep by JanIvanov. Upload skins in your minecraft account for fun.
-
-Discord ID: JanIvanov#5596
