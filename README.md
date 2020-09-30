@@ -12,6 +12,8 @@ Spawn coordinates on map: -27 102 -319
 
 Video:
 
+[![Watch the video](https://img.youtube.com/vi/PRqMH9O7OM0/maxresdefault.jpg)](https://youtu.be/PRqMH9O7OM0)
+
 Screenshots:
 
 Status:
